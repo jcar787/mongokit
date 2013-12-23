@@ -49,3 +49,4 @@ from pymongo import (
     HASHED as INDEX_HASHED
 )
 from migration import DocumentMigration
+from paginator import Paginator
